@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/io/.vs/io/v15/Browse.VC.opendb
