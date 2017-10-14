@@ -1,3 +1,3 @@
 ﻿  io.cpp
-c:\users\matte\desktop\gitlab\homegit\prova-number\io\io\io.cpp(46): warning C4477: 'printf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'vec4f *'
+c:\users\matte\desktop\gitlab\homegit\prova-number\io\io\io.cpp(46): warning C4477: 'printf': con la stringa di formato '%c' è necessario un argomento di tipo 'int', ma il tipo dell'argomento variadic 1 è 'vec4f *'
   io.vcxproj -> C:\Users\matte\Desktop\Gitlab\HomeGit\Prova-number\io\Debug\io.exe
